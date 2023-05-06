@@ -1,0 +1,25 @@
+
+.fondo{
+
+background-image: url(/imagenes/ba1.jpg);
+background-position: center;
+background-size: cover;
+/* text-align: right; */
+height: 90vh;
+position: relative;
+}
+
+.miclase {
+    padding: 10px 15px!important;
+}
+.texto{
+box-sizing: border-box;
+margin-top: 5px;
+margin-bottom: 1rem;
+--bs-text-opacity: 1;
+font-size: 13px;
+}
+
+.nav{
+background-color: rgb(45, 68, 82);
+}
