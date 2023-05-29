@@ -23,3 +23,15 @@ font-size: 13px;
 .nav{
 background-color: rgb(45, 68, 82);
 }
+
+.boton-resumen {
+    background: #74a126;
+    color: white;
+}
+.boton-resumen:hover {
+    background: #a7d658;
+    color: white;
+}
+.back{
+    background-color: rgb(253, 253, 253);
+}
